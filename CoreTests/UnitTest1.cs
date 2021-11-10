@@ -6,7 +6,7 @@ namespace CoreTests
     {
         [SetUp]
         public void Setup()
-        {
+        { 
         }
 
         [Test]
